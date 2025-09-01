@@ -86,7 +86,7 @@ amd-ucode
 iw
 iwd
 kcrash
-# kpmcore
+kpmcore
 kvantum
 lazygit
 less
@@ -152,7 +152,7 @@ starship
 # stratmacs
 stratmacs-config
 # stratos-btop-config
-# stratos-calamares-config
+stratos-calamares-config
 stratos-kitty-config
 stratos-mako-config
 stratos-starship-config
