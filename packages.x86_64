@@ -74,7 +74,6 @@ xdg-user-dirs-gtk
 
 
 
-gnu-netcat
 gpart
 # gpm
 gptfdisk
@@ -106,6 +105,7 @@ lvm2
 # lynx
 man-db
 man-pages
+maneki-neko
 mdadm
 memtest86+
 memtest86+-efi
@@ -149,13 +149,12 @@ smartmontools
 sof-firmware
 squashfs-tools
 starship
-# stratmacs
 stratmacs-config
 # stratos-btop-config
 stratos-calamares-config
 stratos-kitty-config
 stratos-mako-config
-stratos-starship-config
+stratos-starship-hyprland-config
 stratos-wallpapers
 sudo
 syslinux
@@ -181,3 +180,14 @@ yaml-cpp
 yay-bin
 zsh
 zsh-syntax-highlighting
+
+stratos-bin
+stratos-fish-config
+stratos-fonts
+stratos-wallpapers
+tokyonight-gtk-theme
+gnome-shell-extension-blur-my-shell
+gnome-shell-extension-burn-my-windows-git
+gnome-shell-extension-forge-git
+gnome-shell-extension-space-bar-git
+gnome-shell-extension-dash-to-dock
