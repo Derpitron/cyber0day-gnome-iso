@@ -41,6 +41,7 @@ f2fs-tools
 fatresize
 fd
 fish
+flatpak
 # fsarchiver
 fzf
 git
@@ -132,6 +133,7 @@ openssh
 os-prober
 # partclone
 parted
+paru-bin
 # partimage
 # pcsclite
 pv
@@ -185,7 +187,7 @@ stratos-bin
 stratos-fish-config
 stratos-fonts
 stratos-wallpapers
-tokyonight-gtk-theme
+# tokyonight-gtk-theme
 gnome-shell-extension-blur-my-shell
 gnome-shell-extension-burn-my-windows-git
 gnome-shell-extension-forge-git
