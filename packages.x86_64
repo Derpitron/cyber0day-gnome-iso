@@ -75,6 +75,7 @@ xdg-user-dirs-gtk
 
 
 
+ghostty
 gpart
 # gpm
 gptfdisk
@@ -154,7 +155,7 @@ starship
 stratmacs-config
 # stratos-btop-config
 stratos-calamares-config
-stratos-kitty-config
+# stratos-kitty-config
 stratos-mako-config
 stratos-starship-hyprland-config
 stratos-wallpapers
