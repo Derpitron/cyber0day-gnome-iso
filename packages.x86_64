@@ -187,10 +187,24 @@ zsh-syntax-highlighting
 stratos-bin
 stratos-fish-config
 stratos-fonts
-stratos-wallpapers
 # tokyonight-gtk-theme
 gnome-shell-extension-blur-my-shell
 gnome-shell-extension-burn-my-windows-git
 gnome-shell-extension-forge-git
 gnome-shell-extension-space-bar-git
 gnome-shell-extension-dash-to-dock
+
+# Cyber0day 4.0 Competition Edition
+cyber0day-wallpapers
+
+#CTF Tools
+arp-scan
+binwalk
+checksec
+firefox
+gdb
+ghidra
+nmap
+strace
+vscodium-bin
+wireshark-qt
