@@ -8,7 +8,7 @@ Ensure that you have `archiso` installed from the [Arch repositories](https://ar
 To test the ISO, simply clone this repo and run the build script provided:
 
 ```bash
-git clone https://github.com/Derpitron/cyber0day-gnome-iso
+git clone https://github.com/lugvitc/cyber0day-gnome-iso
 cd cyber0day-gnome-iso
 ./build.sh
 ```

@@ -73,8 +73,6 @@ loupe
 xdg-desktop-portal-gnome
 xdg-user-dirs-gtk
 
-
-
 ghostty
 gpart
 # gpm
@@ -152,13 +150,6 @@ smartmontools
 sof-firmware
 squashfs-tools
 starship
-stratmacs-config
-# stratos-btop-config
-stratos-calamares-config
-# stratos-kitty-config
-stratos-mako-config
-stratos-starship-hyprland-config
-stratos-wallpapers
 sudo
 syslinux
 systemd-resolvconf
@@ -184,6 +175,12 @@ yay-bin
 zsh
 zsh-syntax-highlighting
 
+stratmacs-config
+# stratos-btop-config
+stratos-calamares-config
+# stratos-kitty-config
+stratos-mako-config
+stratos-starship-hyprland-config
 stratos-bin
 stratos-fish-config
 stratos-fonts
@@ -197,14 +194,14 @@ gnome-shell-extension-dash-to-dock
 # Cyber0day 4.0 Competition Edition
 cyber0day-wallpapers
 
-#CTF Tools
-arp-scan
-binwalk
-checksec
-firefox
-gdb
-ghidra
-nmap
-strace
-vscodium-bin
-wireshark-qt
+#CTF Tools shouldn't this be installed only by calamares?
+# arp-scan
+# binwalk
+# checksec
+# firefox
+# gdb
+# ghidra
+# nmap
+# strace
+# vscodium-bin
+# wireshark-qt

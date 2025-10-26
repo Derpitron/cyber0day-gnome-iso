@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Exec=bash /usr/local/bin/StratOS-configure-ubuntu
+Exec=bash /usr/local/bin/cyber0day-configure-ubuntu
 Hidden=false
 NoDisplay=false
 X-GNOME-Autostart-enabled=true
