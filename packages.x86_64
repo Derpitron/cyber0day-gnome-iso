@@ -192,8 +192,8 @@ gnome-shell-extension-space-bar-git
 gnome-shell-extension-dash-to-dock
 
 # Cyber0day 4.0 Competition Edition
-cyber0day-wallpapers
-cyber0day-bin
+#cyber0day-wallpapers
+#cyber0day-bin
 
 #CTF Tools shouldn't this be installed only by calamares?
 # arp-scan
